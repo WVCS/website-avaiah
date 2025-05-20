@@ -1,10 +1,12 @@
 H1 {
   color: #000000;  
   text-shadow: 2px 2px;
-font-size: 150px
+  font-size: 150px;
+  outline-style: double;
+  outline-width: 30px;
+  font-family: Calibri
 }
 
 body {
   background-color: #415A77;
 }
-
