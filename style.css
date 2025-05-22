@@ -8,5 +8,28 @@ H1 {
 }
 
 body {
-  background-color: #415A77;
+  background-color: #086788;
 }
+
+nav {
+  list-style-type: none;
+  width: 100%;
+  background-color: #3E5C76;
+  position: fixed;
+  top: 0;
+  left: 0;
+}
+
+li a {
+  color: black;
+  text-decoration: none; 
+  display: block;
+  float: left;
+  padding: 20px 135px;
+}
+
+li a:hover {
+  background-color: white;
+  color: black;
+}
+
