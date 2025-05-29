@@ -4,7 +4,7 @@ H1 {
   font-size: 150px;
   outline-style: double;
   outline-width: 30px;
-  font-family: Calibri
+  font-family: Calibri;
 }
 
 body {
@@ -25,7 +25,7 @@ li a {
   text-decoration: none; 
   display: block;
   float: left;
-  padding: 20px 135px;
+  padding: 20px 133px;
 }
 
 li a:hover {
